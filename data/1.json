@@ -1,0 +1,18 @@
+{
+	"id": 1,
+	"name": {
+		"first" : "Lakha",
+		"last" : "Singh"
+	},
+	"address" : {
+		"line1" : "WZ-143 B/1 Sant Garh",
+		"line2" : "Tilak Nagar",
+		"city" : "New Delhi",
+		"state" : "Delhi",
+		"zip" : "110018",
+		"country" : "India"
+	},
+	"image" : "image/avatar.png",
+	"phone" : "9968063108",
+	"email" : "lakha@gmail.com"
+}

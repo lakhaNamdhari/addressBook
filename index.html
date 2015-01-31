@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<title>AddressBook App</title>
+		<link rel="stylesheet" href="style/main.css" />
+	</head>
+	<body>
+		<div class="main">
+			<h1>Address Book</h1>
+			
+			<div class="container">
+				<aside class="column">
+					<div class="sort-cont">
+						<span class="label"></span>
+						<ul class="sort-button">
+							<li class="button"></li>
+						</ul>
+					</div>
+					
+					<ul id="nameList" class="name-list"></ul>
+					
+					<!--
+					<form action="" class="search">
+						<input type="search" />
+						<input type="submit" />
+					</form>
+					-->
+				</aside>
+				
+				<main id="addressView" class="column name-detail"></main>
+			</div>
+		</div>
+		
+		<!-- Vendor scripts -->		
+		<script src="script/external/jquery-2.1.3.js" type="text/javascript"></script>
+		<script src="script/external/underscore.js" type="text/javascript"></script>
+		<script src="script/external/backbone.js" type="text/javascript"></script>
+		<script src="script/external/handlebars-v2.0.0.js" type="text/javascript"></script>
+		
+		<!-- Model scripts -->		
+		<script src="script/model/addressModel.js" type="text/javascript"></script>
+		<script src="script/model/nameModel.js" type="text/javascript"></script>
+		<script src="script/collection/nameCollection.js" type="text/javascript"></script>
+		
+		<!-- View scripts -->		
+		<script src="script/view/baseView.js" type="text/javascript"></script>
+		<script src="script/view/nameView.js" type="text/javascript"></script>
+		<script src="script/view/addressView.js" type="text/javascript"></script>
+
+		<!-- Main scripts -->				
+		<script src="script/appRouter.js" type="text/javascript"></script>	
+		<script src="script/controller/main.js" type="text/javascript"></script>
+	</body>
+</html>

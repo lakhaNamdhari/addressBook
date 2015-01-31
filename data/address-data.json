@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"name": {
+			"first" : "Lakha",
+			"last" : "Singh"
+		},
+		"address" : {
+			"line1" : "WZ-143 B/1 Sant Garh",
+			"line2" : "Tilak Nagar",
+			"city" : "New Delhi",
+			"state" : "New Delhi",
+			"zip" : "110018",
+			"country" : "India"
+		},
+		"image" : "image/avatar.png",
+		"phone" : "9968063108",
+		"email" : "lakha@gmail.com"
+	},
+
+	{
+		"id": 2,
+		"name": {
+			"first" : "Piara",
+			"last" : "Singh"
+		},
+		"address" : {
+			"line1" : "A-23",
+			"line2" : "Tilak Nagar",
+			"city" : "New Delhi",
+			"state" : "New Delhi",
+			"zip" : "110018",
+			"country" : "India"
+		},
+		"image" : "image/avatar.png",
+		"phone" : "9711656524",
+		"email" : "piara@gmail.com"
+	},
+
+	{
+		"id": 3,
+		"name": {
+			"first" : "Sohan",
+			"last" : "Singh"
+		},
+		"address" : {
+			"line1" : "C-67",
+			"line2" : "Tilak Nagar",
+			"city" : "New Delhi",
+			"state" : "New Delhi",
+			"zip" : "110018",
+			"country" : "India"
+		},
+		"image" : "image/avatar.png",
+		"phone" : "9999677236",
+		"email" : "sohan@gmail.com"
+	}
+]

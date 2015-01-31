@@ -1,0 +1,18 @@
+{
+	"id": 3,
+	"name": {
+		"first" : "Sohan",
+		"last" : "Singh"
+	},
+	"address" : {
+		"line1" : "C-67",
+		"line2" : "Tilak Nagar",
+		"city" : "New Delhi",
+		"state" : "Delhi",
+		"zip" : "110018",
+		"country" : "India"
+	},
+	"image" : "image/avatar.png",
+	"phone" : "9999677236",
+	"email" : "sohan@gmail.com"
+}

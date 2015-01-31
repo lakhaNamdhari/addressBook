@@ -1,0 +1,25 @@
+[
+	{
+		"id": 1,
+		"name": {
+			"first" : "Lakha",
+			"last" : "Singh"
+		}
+	},
+
+	{
+		"id": 2,
+		"name": {
+			"first" : "Piara",
+			"last" : "Singh"
+		}
+	},
+
+	{
+		"id": 3,
+		"name": {
+			"first" : "Sohan",
+			"last" : "Singh"
+		}
+	}
+]

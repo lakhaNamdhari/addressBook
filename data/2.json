@@ -1,0 +1,18 @@
+{
+	"id": 2,
+	"name": {
+		"first" : "Piara",
+		"last" : "Singh"
+	},
+	"address" : {
+		"line1" : "A-23",
+		"line2" : "Tilak Nagar",
+		"city" : "New Delhi",
+		"state" : "Delhi",
+		"zip" : "110018",
+		"country" : "India"
+	},
+	"image" : "image/avatar.png",
+	"phone" : "9711656524",
+	"email" : "piara@gmail.com"
+}
